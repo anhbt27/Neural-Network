@@ -1,0 +1,9 @@
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\bin\Debug\MLP.exe.config
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\bin\Debug\MLP.exe
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\bin\Debug\MLP.pdb
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\obj\Debug\MLP.Form1.resources
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\obj\Debug\MLP.Properties.Resources.resources
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\obj\Debug\MLP.csproj.GenerateResource.cache
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\obj\Debug\MLP.csproj.CoreCompileInputs.cache
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\obj\Debug\MLP.exe
+D:\study\semester 2\neural network\multiple layer perceptrons\GUI Application\MLP\MLP\obj\Debug\MLP.pdb

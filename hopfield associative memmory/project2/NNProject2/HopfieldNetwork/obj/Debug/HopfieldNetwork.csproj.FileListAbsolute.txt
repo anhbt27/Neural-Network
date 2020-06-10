@@ -1,0 +1,10 @@
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\bin\Debug\HopfieldNetwork.exe.config
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\bin\Debug\HopfieldNetwork.exe
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\bin\Debug\HopfieldNetwork.pdb
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.Form1.resources
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.Properties.Resources.resources
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.GenerateResource.cache
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.CoreCompileInputs.cache
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.exe
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.pdb
+D:\study\semester 2\neural network\hopfield associative memmory\project2\NNProject2\HopfieldNetwork\obj\Debug\HopfieldNetwork.csprojAssemblyReference.cache
